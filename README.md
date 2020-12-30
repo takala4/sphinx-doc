@@ -14,7 +14,8 @@
     * markdownの導入
 * **[takala4/nbsphinx: Sphinx source parser for Jupyter notebooks](https://github.com/takala4/nbsphinx)**
     * カスタムしたnbsphinx
-
+* **[SphinxとGitHub Pagesで技術ノートを公開しよう！ - Qiita](https://qiita.com/tutuz/items/88a32d94d700b33dc3ea)**
+    * githubpageとして公開する際のディレクトリ構成
 
 
 ## docstring
